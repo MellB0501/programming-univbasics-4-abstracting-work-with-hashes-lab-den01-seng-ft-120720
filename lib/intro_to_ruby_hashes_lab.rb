@@ -1,6 +1,5 @@
 def my_hash_creator(key, value)
-  {:name "George"
-  :id 5
+  {
   }
 end
 
